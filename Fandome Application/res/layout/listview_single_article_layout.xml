@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="67.5dp"
+    android:gravity="left"
+    android:orientation="horizontal">
+
+
+     <com.fandome.views.ImageViewWithProcessIndicator
+         android:id="@+id/articleImage"
+         android:layout_width="120dp"
+	     android:layout_height="67.5dp"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentTop="true"
+	     android:layout_alignParentBottom="true"
+         android:src="@drawable/welcome"
+          />
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="67.5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/articleImage"
+       	android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Title"
+            android:textColor="#FFE306"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/articleText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</RelativeLayout>

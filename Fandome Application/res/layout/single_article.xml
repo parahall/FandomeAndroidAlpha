@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_margin="10dp"
+            android:paddingBottom="10dp" >
+
+            <com.fandome.views.ImageViewWithProcessIndicator
+                android:id="@+id/articleImage"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/image_thumbnail_size" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/articleImage"
+                android:layout_centerHorizontal="true"
+                android:text="Title"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/articleText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/title"
+                android:layout_margin="10dp"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/btnSharePhoto"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.45"
+        android:background="@android:color/transparent"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:onClick="onShareClicked"
+        android:scaleType="fitXY"
+        android:src="@drawable/share" />
+
+</RelativeLayout>

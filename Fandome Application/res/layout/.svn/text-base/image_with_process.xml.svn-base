@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_centerInParent="true"
+        style="@style/GenericProgressBackground"
+        android:id="@+id/loadingPanel"
+        android:layout_width="match_parent" 
+        android:layout_height="match_parent"
+        >
+        <ProgressBar
+            style="@style/GenericProgressIndicator" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <com.fandome.views.RecyclingImageView
+        android:id="@+id/lazyImageView1"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        />
+</RelativeLayout>

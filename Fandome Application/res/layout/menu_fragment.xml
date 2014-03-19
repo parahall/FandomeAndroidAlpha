@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abs__background_holo_dark"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.90"
+        android:orientation="vertical"
+        android:weightSum="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <ImageButton
+                android:id="@+id/teamItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:onClick="TeamsClicked"
+                android:scaleType="fitXY"
+                android:src="@drawable/teams" />
+
+            <ImageButton
+                android:id="@+id/imageItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:onClick="ImagesClicked"
+                android:scaleType="fitXY"
+                android:src="@drawable/pics" >
+            </ImageButton>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <ImageButton
+                android:id="@+id/newsItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:onClick="NewsClicked"
+                android:scaleType="fitXY"
+                android:src="@drawable/news" />
+
+            <ImageButton
+                android:id="@+id/chatItem"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:onClick="ChatClicked"
+                android:scaleType="fitXY"
+                android:src="@drawable/chat" >
+            </ImageButton>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/orderDigital"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.10"
+        android:onClick="DigitalClicked"
+        android:scaleType="fitXY"
+        android:src="@drawable/order" />
+
+</LinearLayout>

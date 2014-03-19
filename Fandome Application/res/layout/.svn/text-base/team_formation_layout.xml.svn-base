@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/soccerFieldRelavite"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      >
+      <RelativeLayout 
+          android:id="@+id/strikersRelative" 
+          android:minHeight="50dp"
+          android:layout_width="match_parent" 
+          android:layout_height="wrap_content" 
+          android:layout_alignParentTop="true"
+          android:layout_marginTop="40dp"
+          >
+            <LinearLayout android:id="@+id/strikersZone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            </LinearLayout>
+      </RelativeLayout>
+      
+      
+      
+      <RelativeLayout
+          android:id="@+id/middefenderRelative"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:minHeight="50dp"
+          
+          android:layout_centerVertical="true"
+          >
+          <LinearLayout android:layout_centerInParent="true" android:id="@+id/midefendersZone"  android:layout_width="wrap_content" android:layout_height="wrap_content">
+              
+          </LinearLayout>
+      </RelativeLayout>
+      
+        <RelativeLayout android:id="@+id/goalkeeperRelative"
+            android:minHeight="50dp"
+             android:layout_width="match_parent" 
+             android:layout_height="wrap_content" 
+             android:layout_alignParentBottom="true" 
+             android:layout_alignParentLeft="true"
+             >
+            <LinearLayout android:id="@+id/goalkeeperZone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            </LinearLayout>
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/defendersRelative"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="50dp"
+            android:layout_gravity="center"
+            android:layout_above="@id/goalkeeperRelative"
+            >
+            <LinearLayout android:id="@+id/defendersZone" android:layout_centerInParent="true"   android:layout_width="wrap_content" android:layout_height="wrap_content">
+                
+            </LinearLayout>
+        </RelativeLayout>
+        
+        <RelativeLayout
+          android:id="@+id/attackmiddefenderRelative"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:minHeight="50dp"
+          android:layout_below="@id/strikersRelative"
+          android:layout_above="@id/middefenderRelative"
+          >
+          <LinearLayout android:layout_centerHorizontal="true" android:id="@+id/attackmidefendersZone"  android:layout_width="wrap_content" android:layout_height="wrap_content">
+          </LinearLayout>
+      </RelativeLayout>
+      
+      <RelativeLayout
+          android:id="@+id/defendmiddefenderRelative"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:minHeight="50dp"
+          android:layout_below="@id/middefenderRelative"
+          android:layout_above="@id/defendersRelative"
+          android:layout_alignParentLeft="true"
+          >
+          <LinearLayout android:layout_centerHorizontal="true"  android:id="@+id/defendmidefendersZone"  android:layout_width="wrap_content" android:layout_height="wrap_content">
+          </LinearLayout>
+      </RelativeLayout>
+    </RelativeLayout>

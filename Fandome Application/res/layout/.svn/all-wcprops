@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/fandome/!svn/ver/211/trunk/Fandome_Android/res/layout
+END
+masterpage_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/fandome/!svn/ver/211/trunk/Fandome_Android/res/layout/masterpage_layout.xml
+END
+image_with_process.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/res/layout/image_with_process.xml
+END
+team_formation_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/136/trunk/Fandome_Android/res/layout/team_formation_layout.xml
+END
+single_article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/res/layout/single_article.xml
+END
+player_details_stats_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fandome/!svn/ver/101/trunk/Fandome_Android/res/layout/player_details_stats_row.xml
+END
+viewpager_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/41/trunk/Fandome_Android/res/layout/viewpager_menu.xml
+END
+activity_gallery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/fandome/!svn/ver/152/trunk/Fandome_Android/res/layout/activity_gallery.xml
+END
+activity_news.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fandome/!svn/ver/41/trunk/Fandome_Android/res/layout/activity_news.xml
+END
+player_details_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/res/layout/player_details_layout.xml
+END
+activity_teams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/57/trunk/Fandome_Android/res/layout/activity_teams.xml
+END
+activity_article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fandome/!svn/ver/54/trunk/Fandome_Android/res/layout/activity_article.xml
+END
+player_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/116/trunk/Fandome_Android/res/layout/player_layout.xml
+END
+activity_chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/165/trunk/Fandome_Android/res/layout/activity_chat.xml
+END
+tutorial_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fandome/!svn/ver/200/trunk/Fandome_Android/res/layout/tutorial_dialog.xml
+END
+single_chat_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fandome/!svn/ver/165/trunk/Fandome_Android/res/layout/single_chat_row.xml
+END
+articles_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fandome/!svn/ver/147/trunk/Fandome_Android/res/layout/articles_layout.xml
+END
+thumbnails_game_images.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/109/trunk/Fandome_Android/res/layout/thumbnails_game_images.xml
+END
+favorite_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/fandome/!svn/ver/131/trunk/Fandome_Android/res/layout/favorite_layout.xml
+END
+listview_single_article_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fandome/!svn/ver/145/trunk/Fandome_Android/res/layout/listview_single_article_layout.xml
+END
+menu_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/166/trunk/Fandome_Android/res/layout/menu_fragment.xml
+END
+teams_fragment_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/fandome/!svn/ver/57/trunk/Fandome_Android/res/layout/teams_fragment_layout.xml
+END
+single_team_item_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fandome/!svn/ver/136/trunk/Fandome_Android/res/layout/single_team_item_fragment.xml
+END
+activity_player_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/68/trunk/Fandome_Android/res/layout/activity_player_details.xml
+END
+activity_splash_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/128/trunk/Fandome_Android/res/layout/activity_splash_screen.xml
+END
+activity_single_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/res/layout/activity_single_image.xml
+END
+main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/155/trunk/Fandome_Android/res/layout/main_activity.xml
+END

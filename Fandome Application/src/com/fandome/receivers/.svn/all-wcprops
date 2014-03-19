@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fandome/!svn/ver/203/trunk/Fandome_Android/src/com/fandome/receivers
+END
+BootCompleteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fandome/!svn/ver/203/trunk/Fandome_Android/src/com/fandome/receivers/BootCompleteReceiver.java
+END
+ChatReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fandome/!svn/ver/153/trunk/Fandome_Android/src/com/fandome/receivers/ChatReceiver.java
+END
+ResourceDownloadReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/receivers/ResourceDownloadReceiver.java
+END

@@ -1,0 +1,61 @@
+10
+
+dir
+215
+https://subversion.assembla.com/svn/fandome/trunk/Fandome_Android/src/com/fandome
+https://subversion.assembla.com/svn/fandome
+
+
+
+2013-05-08T10:16:34.937458Z
+215
+parahall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f682c5b-5314-4d47-904b-b7961a49c91e
+
+application
+dir
+
+communication
+dir
+
+facebook
+dir
+
+fragments
+dir
+
+infra
+dir
+
+intefaces
+dir
+
+listadapters
+dir
+
+models
+dir
+
+receivers
+dir
+
+services
+dir
+
+views
+dir
+

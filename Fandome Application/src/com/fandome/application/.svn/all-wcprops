@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/fandome/!svn/ver/215/trunk/Fandome_Android/src/com/fandome/application
+END
+PlayerDetailsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fandome/!svn/ver/196/trunk/Fandome_Android/src/com/fandome/application/PlayerDetailsActivity.java
+END
+MasterPageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fandome/!svn/ver/196/trunk/Fandome_Android/src/com/fandome/application/MasterPageActivity.java
+END
+ApplicationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fandome/!svn/ver/164/trunk/Fandome_Android/src/com/fandome/application/ApplicationManager.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fandome/!svn/ver/215/trunk/Fandome_Android/src/com/fandome/application/MainActivity.java
+END
+ChatActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fandome/!svn/ver/194/trunk/Fandome_Android/src/com/fandome/application/ChatActivity.java
+END
+ArticleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/application/ArticleActivity.java
+END
+TeamsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fandome/!svn/ver/179/trunk/Fandome_Android/src/com/fandome/application/TeamsActivity.java
+END
+NewsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/fandome/!svn/ver/73/trunk/Fandome_Android/src/com/fandome/application/NewsActivity.java
+END
+SplashScreenActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fandome/!svn/ver/168/trunk/Fandome_Android/src/com/fandome/application/SplashScreenActivity.java
+END
+SingleImageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fandome/!svn/ver/208/trunk/Fandome_Android/src/com/fandome/application/SingleImageActivity.java
+END
+TabsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fandome/!svn/ver/34/trunk/Fandome_Android/src/com/fandome/application/TabsAdapter.java
+END
+GalleryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fandome/!svn/ver/206/trunk/Fandome_Android/src/com/fandome/application/GalleryActivity.java
+END

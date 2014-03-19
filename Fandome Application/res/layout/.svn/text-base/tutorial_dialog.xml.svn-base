@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ScrollView
+        android:id="@+id/scrVwTextBegin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/txtViewBegin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="Text of first View" />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imgStar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/scrVwTextBegin"
+        android:layout_centerInParent="true"
+        android:src="@drawable/star" />
+
+    <TextView
+        android:id="@+id/txtViewEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgStar"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:text="Text of second View" />
+
+    <ImageView
+        android:id="@+id/imgDigital"
+        android:layout_width="135dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/imgStar"
+        android:layout_centerInParent="true"
+        android:src="@drawable/order" />
+
+    <TextView
+        android:id="@+id/txtViewLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/imgDigital"
+        android:layout_gravity="right"
+        android:layout_marginTop="10dp"
+        android:text="Bla bla bla" />
+
+    <ImageButton
+        android:id="@+id/btnFacebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtViewLogin"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/facebook_login" />
+
+</RelativeLayout>

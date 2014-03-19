@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Digital Programme</string>
+    <string name="connection_error">Connection Error Occur, Please Try Again Later</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_team">TeamActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_teams">TeamsActivity</string>
+    <string name="app_id">357645717667144</string>
+    <string name="title_activity_player_details">PlayerDetailsActivity</string>
+    <string name="title_activity_images">Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="album_name">Fandome Album</string>
+    <string name="title_activity_single_image">SingleImageActivity</string>
+    <string name="usersPassword">password</string>
+    <string name="share">Share</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="tutorial_text_part_before_star">כבר מעכשיו תוכלו להנות מתוכן אינטרקטיבי על המשחק ולסמן ב-</string>
+    <string name="tutorial_text_part_after_star">בלחיצה על</string>
+    <string name="tutorial_text_before_login"> תוכלו לקבל מזכרת אישית מהמשחק ובו גם התוכן האהוב עליכם!\nבשביל להעצים ולחלוק את החוויה, אנחנו ממליצים להתחבר באמצעות פייסבוק</string>
+    <string name="AlertTitle">ברוכים הבאים לתוכנייה הדיגיטאלית!</string>
+    <string name="ProgramTitle">Personal Digital Programme</string>
+    <string name="sendingRequest">Your request is sending...</string>
+    <string name="digitalProgram_message">Thank you for ordering!Would you like to pay 3€ for a personalized programme? </string>
+    <string name="VS">vs</string>
+
+</resources>

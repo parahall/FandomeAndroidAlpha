@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/src/com/fandome/listadapters
+END
+FormationListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/fandome/!svn/ver/155/trunk/Fandome_Android/src/com/fandome/listadapters/FormationListAdapter.java
+END
+GalleryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/src/com/fandome/listadapters/GalleryAdapter.java
+END
+BatchLoadGalleryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/src/com/fandome/listadapters/BatchLoadGalleryAdapter.java
+END
+ChatRowAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/fandome/!svn/ver/168/trunk/Fandome_Android/src/com/fandome/listadapters/ChatRowAdapter.java
+END
+ArticleListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/src/com/fandome/listadapters/ArticleListAdapter.java
+END

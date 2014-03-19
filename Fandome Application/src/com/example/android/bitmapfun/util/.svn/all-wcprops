@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fandome/!svn/ver/208/trunk/Fandome_Android/src/com/example/android/bitmapfun/util
+END
+DiskLruCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/DiskLruCache.java
+END
+RecyclingBitmapDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/RecyclingBitmapDrawable.java
+END
+ImageFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/fandome/!svn/ver/208/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/ImageFetcher.java
+END
+ImagesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/fandome/!svn/ver/203/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/ImagesCache.java
+END
+ImageWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/fandome/!svn/ver/205/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/ImageWorker.java
+END
+ImageResizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/fandome/!svn/ver/196/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/ImageResizer.java
+END
+AsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/AsyncTask.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fandome/!svn/ver/195/trunk/Fandome_Android/src/com/example/android/bitmapfun/util/Utils.java
+END

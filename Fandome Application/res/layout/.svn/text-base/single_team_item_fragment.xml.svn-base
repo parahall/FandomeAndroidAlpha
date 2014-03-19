@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher
+    android:id="@+id/switcher1"
+    android:layout_width="match_parent" 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:inAnimation="@android:anim/slide_in_left" 
+    android:outAnimation="@android:anim/slide_out_right">
+    
+	<include 
+	    android:layout_width="wrap_content"
+	    android:layout_height="480dp"
+	    layout="@layout/team_formation_layout"/>    
+    
+    <com.fandome.views.PlayerDetailsView 
+        android:id="@+id/playerDetailsView1" 
+        android:layout_width="wrap_content"
+         android:layout_height="wrap_content"/>
+    
+   
+</ViewSwitcher>

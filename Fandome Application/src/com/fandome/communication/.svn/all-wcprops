@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fandome/!svn/ver/215/trunk/Fandome_Android/src/com/fandome/communication
+END
+ArticlesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/communication/ArticlesManager.java
+END
+GameDetailsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fandome/!svn/ver/116/trunk/Fandome_Android/src/com/fandome/communication/GameDetailsManager.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fandome/!svn/ver/129/trunk/Fandome_Android/src/com/fandome/communication/Result.java
+END
+UsersImagesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/fandome/!svn/ver/206/trunk/Fandome_Android/src/com/fandome/communication/UsersImagesManager.java
+END
+GameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/communication/GameManager.java
+END
+PlayersManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fandome/!svn/ver/123/trunk/Fandome_Android/src/com/fandome/communication/PlayersManager.java
+END
+TeamsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fandome/!svn/ver/155/trunk/Fandome_Android/src/com/fandome/communication/TeamsManager.java
+END
+FacebookManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fandome/!svn/ver/208/trunk/Fandome_Android/src/com/fandome/communication/FacebookManager.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fandome/!svn/ver/212/trunk/Fandome_Android/src/com/fandome/communication/ChatManager.java
+END
+MyFandomeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fandome/!svn/ver/215/trunk/Fandome_Android/src/com/fandome/communication/MyFandomeManager.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fandome/!svn/ver/156/trunk/Fandome_Android/src/com/fandome/communication/UserManager.java
+END

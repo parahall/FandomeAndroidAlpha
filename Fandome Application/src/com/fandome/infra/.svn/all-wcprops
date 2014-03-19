@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/fandome/!svn/ver/206/trunk/Fandome_Android/src/com/fandome/infra
+END
+ParseCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/49/trunk/Fandome_Android/src/com/fandome/infra/ParseCache.java
+END
+Stopwatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/174/trunk/Fandome_Android/src/com/fandome/infra/Stopwatch.java
+END
+ListHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/164/trunk/Fandome_Android/src/com/fandome/infra/ListHelper.java
+END
+AsyncHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fandome/!svn/ver/109/trunk/Fandome_Android/src/com/fandome/infra/AsyncHelper.java
+END
+SerializetionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/infra/SerializetionManager.java
+END
+ImagesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fandome/!svn/ver/206/trunk/Fandome_Android/src/com/fandome/infra/ImagesHelper.java
+END
+DiskCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fandome/!svn/ver/190/trunk/Fandome_Android/src/com/fandome/infra/DiskCache.java
+END
+Keys.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/infra/Keys.java
+END
+GeneralUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/fandome/!svn/ver/140/trunk/Fandome_Android/src/com/fandome/infra/GeneralUtility.java
+END
+CameraHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fandome/!svn/ver/115/trunk/Fandome_Android/src/com/fandome/infra/CameraHelper.java
+END
+DatesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/infra/DatesHelper.java
+END
+MemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/infra/MemoryCache.java
+END

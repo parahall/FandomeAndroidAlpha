@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/fragments
+END
+MenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/fandome/!svn/ver/157/trunk/Fandome_Android/src/com/fandome/fragments/MenuFragment.java
+END
+ViewPagerMenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/fandome/!svn/ver/41/trunk/Fandome_Android/src/com/fandome/fragments/ViewPagerMenuFragment.java
+END
+ImagesFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/fandome/!svn/ver/155/trunk/Fandome_Android/src/com/fandome/fragments/ImagesFragment.java
+END
+ArticleFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/fandome/!svn/ver/197/trunk/Fandome_Android/src/com/fandome/fragments/ArticleFragment.java
+END
+TeamsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/fandome/!svn/ver/116/trunk/Fandome_Android/src/com/fandome/fragments/TeamsFragment.java
+END
+ArticleListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/fragments/ArticleListFragment.java
+END
+BaseFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fandome/!svn/ver/34/trunk/Fandome_Android/src/com/fandome/fragments/BaseFragment.java
+END

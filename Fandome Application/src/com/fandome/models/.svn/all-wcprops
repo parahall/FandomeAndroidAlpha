@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/models
+END
+UserModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/148/trunk/Fandome_Android/src/com/fandome/models/UserModel.java
+END
+TeamModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/171/trunk/Fandome_Android/src/com/fandome/models/TeamModel.java
+END
+GameDetailsModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/fandome/!svn/ver/171/trunk/Fandome_Android/src/com/fandome/models/GameDetailsModel.java
+END
+FormationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fandome/!svn/ver/171/trunk/Fandome_Android/src/com/fandome/models/FormationModel.java
+END
+PlayerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fandome/!svn/ver/177/trunk/Fandome_Android/src/com/fandome/models/PlayerModel.java
+END
+ModelCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/fandome/!svn/ver/34/trunk/Fandome_Android/src/com/fandome/models/ModelCollection.java
+END
+GameModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/fandome/!svn/ver/171/trunk/Fandome_Android/src/com/fandome/models/GameModel.java
+END
+ChatRowModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fandome/!svn/ver/153/trunk/Fandome_Android/src/com/fandome/models/ChatRowModel.java
+END
+ArticleModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fandome/!svn/ver/202/trunk/Fandome_Android/src/com/fandome/models/ArticleModel.java
+END
